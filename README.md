@@ -1,1 +1,4 @@
-# creating-a-responsive-web-design
+# Creating a Responsive Web Design
+
+**Padding**
+It controls the space inside the element.
