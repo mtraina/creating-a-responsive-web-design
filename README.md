@@ -19,3 +19,7 @@ You can assign only one id to an element, it has to be unique, but you can use s
 
 ### SVG graphics
 SVG stand for scalable vector graphics. Vectorial file format that can be scaled to any size on the browser.
+
+## CSS
+#### Pseudo-elements
+It is used to style a specific part of an element, for example inserting content before or after the content of an element or style a line of it.
